@@ -1,0 +1,81 @@
+
+.title {
+  margin-top: 5rem;
+}
+
+
+.main-section {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+form {
+  margin: 1rem;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 10rem;
+}
+input {
+  height: 3rem;
+  font-size: large;
+  padding: 5px;
+  border-radius: 10px;
+}
+button {
+  margin: 1rem;
+  padding: 10px;
+  font-size: medium;
+  font-weight: 600;
+  letter-spacing: 2px;
+  background-color: #d35400;
+  color: white;
+  border-radius: 10px;
+  transition: 1s;
+}
+
+.table{
+height: 60%;
+margin: auto;
+
+}
+.title-table{
+  margin-top: 5rem;
+
+}
+.change{
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.adjust{
+  border: 2px solid rgba(0, 0, 0, 0.548);
+  border-radius: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+.adiust-form button{
+width: 100%;
+}
+
+.adjust-location{
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.adjust-location button{
+  width: 100%;
+}

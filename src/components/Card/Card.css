@@ -1,0 +1,16 @@
+.cards{
+    margin: 1rem;
+    border-radius: 9px;
+    border: 2px solid rgba(0, 0, 0, 0.39);
+    /* width: 30rem; */
+}
+.cards p{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 1rem 1rem 1rem;
+}
+.card-title{
+font-weight: 600;
+color: rgba(0, 0, 0, 0.959);
+margin-right:9rem;
+}
